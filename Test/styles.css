@@ -1,4 +1,6 @@
-p{
-    font-family: Tangerine;
+.newsstyle{
+    font: Ariel;
+    font-style: italic;
     color: tan;
+    background-color: red;
 }
